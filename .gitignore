@@ -1,0 +1,24 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode
+xcuserdata/
+*.xcworkspace
+!default.xcworkspace
+DerivedData/
+.DS_Store
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# SourceKit
+.sourcekit-lsp/
+*.swiftmodule
+*.swiftdoc
+
+# Other
+.vscode/
+.idea/
