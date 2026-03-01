@@ -28,5 +28,6 @@ or
 [ ] prevent dragging/resizing of nativebar
 [ ] user derived config i.e. port derived config from ghostty
 [ ] single tab to use tab bar instead of title bar e.g. [x post](https://x.com/mayfer/status/2024298589107966399?s=20)
+[ ] tabbar initializes without clicking on appliaction icon 
 [ ] more macos version support (i.e. bring over more ghossty functionality)
 [ ] support for hooks into window managers (e.g. aerospace)
